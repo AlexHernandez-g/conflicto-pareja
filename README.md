@@ -1,5 +1,5 @@
 # Reto Git en Pareja - Modificado por B
 
-Comida favorita modificada por B: ajiaco.
+Comida favorita acordada: sancocho y ajiaco.
 
-Nuestras comidas favoritas son el arroz de coco con pescado y la bandeja paisa.
+Seccion exclusiva agregada por A al final.
