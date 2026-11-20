@@ -4,4 +4,4 @@ Comida favorita acordada: sancocho y ajiaco.
 
 Seccion exclusiva agregada por A al final.
 
-Practica extra desde casa: cocinar algo nuevo y programar.
+Practica extra desde casa: futbol, cocinar y programar.
