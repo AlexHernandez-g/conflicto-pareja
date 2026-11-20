@@ -1,3 +1,5 @@
 # Reto Git en Pareja - Equipo A y B
 
-Nuestras comidas favoritas son el arroz de coco con pescado y la bandeja paisa.
+Comida favorita modificada por A: sancocho.
+
+Seccion exclusiva agregada por A al final.
