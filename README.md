@@ -1,2 +1,3 @@
 # conflicto-pareja
-Mi comida favorita es la bandeja paisa.
+
+Nuestras comidas favoritas son el arroz de coco con pescado y la bandeja paisa.
